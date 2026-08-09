@@ -6,7 +6,7 @@
 💻 Apaixonada por tecnologia e programação
 🚀 Sempre buscando aprender e evoluir na área de TI
 
-🛠️ Linguagens e tecnologias
+
 🐍 Python
 💻 C
 🗄️ SQL
