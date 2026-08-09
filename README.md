@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img width="498" height="281" alt="Image" src="https://github.com/user-attachments/assets/902adbcb-d100-4c51-b913-bb85920b9f5b" />
+
 👩‍💻 Olá, eu sou Eve!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
