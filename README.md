@@ -24,13 +24,13 @@
 </div>
 
                                                          
-                                                              G O T H A M 
+                                                                
+                                                                  G O T H A M 
                                                              CITY NEVER SLEEPS
 
 <div align="center">
 🦇 THE NIGHT IS LONG. KEEP CODING.
 
-  🖤 GOTHAM SYSTEM // ONLINE
   
 </div>
 
