@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**evellynn13/evellynn13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Olá, eu sou Eve!
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+💻 Apaixonada por tecnologia e programação
+🚀 Sempre buscando aprender e evoluir na área de TI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Linguagens e tecnologias
+🐍 Python
+💻 C
+🗄️ SQL
+🐘 PostgreSQL
+🧠 Lógica de Programação
+
