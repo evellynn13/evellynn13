@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-<img width="498" height="281" alt="Image" src="https://github.com/user-attachments/assets/902adbcb-d100-4c51-b913-bb85920b9f5b" />
 
-👩‍💻 Olá, eu sou Eve!
+👩‍💻 Olá, eu sou Evellyn!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
@@ -12,6 +11,8 @@
 🗄️ SQL
 🐘 PostgreSQL
 🧠 Lógica de Programação
+
+<img width="498" height="280" alt="Image" src="https://github.com/user-attachments/assets/ac0abe3a-8623-45af-a105-40157d7a567f" />
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
