@@ -23,15 +23,14 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=evellynn13&bg_color=111111&color=FFFFFF&line=FFD700&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 
-🌃 GOTHAM CODE
 G O T H A M 
 CITY NEVER SLEEPS
-CODE • LEARN • BUILD • REPEAT
 
 <div align="center">
 🦇 THE NIGHT IS LONG. KEEP CODING.
 Eve • ADS Student • Developer in progress
 🖤 GOTHAM SYSTEM // ONLINE
+  
 </div>
 
 
