@@ -22,20 +22,10 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=evellynn13&bg_color=111111&color=FFFFFF&line=FFD700&point=FFFFFF&area=true&hide_border=true"/>
 </div>
-🦇 CURRENT MISSION
-╔══════════════════════════════════════════════╗ 
-║ CURRENT MISSION ║ 
-╠══════════════════════════════════════════════╣  
-║ [✓] Learn Python ║
-║ [✓] Learn C ║ 
-║ [✓] Learn SQL ║
-║ [✓] Study ADS ║ 
-║ [ ] Build bigger projects 
-║ [ ] Become a better developer 
-╚══════════════════════════════════════════════╝
 
 🌃 GOTHAM CODE
-G O T H A M CITY NEVER SLEEPS
+G O T H A M 
+CITY NEVER SLEEPS
 CODE • LEARN • BUILD • REPEAT
 
 <div align="center">
