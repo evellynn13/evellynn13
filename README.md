@@ -35,8 +35,7 @@
                                                                      CITY 
                                                                   NEVER SLEEPS
 
-<div align="center">
-🦇 THE NIGHT IS LONG. KEEP CODING.
+                                                       🦇 THE NIGHT IS LONG. KEEP CODING.
 
   
 </div>
